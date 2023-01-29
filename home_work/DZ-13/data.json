@@ -1,0 +1,87 @@
+{
+   "Ivanov": {
+      "age": "25",
+      "post": "manager",
+      "telephone": "88005552222"
+   },
+   "Dmitriev": {
+      "age": "27",
+      "post": "economist",
+      "telephone": "88005553333"
+   },
+   "Sidorov": {
+      "age": "29",
+      "post": "office manager",
+      "telephone": "88005554444"
+   },
+   "Sokolov": {
+      "age": "23",
+      "post": "manager",
+      "telephone": "88005551234"
+   },
+   "Matveev": {
+      "age": "27",
+      "post": "IT specialist",
+      "telephone": "88005554421"
+   },
+   "Karpov": {
+      "age": "28",
+      "post": "deputy dir",
+      "telephone": "88005552345"
+   },
+   "Somov": {
+      "age": "34",
+      "post": "director",
+      "telephone": "88005557866"
+   },
+   "Petrov": {
+      "age": "36",
+      "post": "logist",
+      "telephone": "211455523"
+   },
+   "Makarov": {
+      "age": "34",
+      "post": "IT specialist",
+      "telephone": "88005554422"
+   },
+   "Popov": {
+      "age": "28",
+      "post": "manager",
+      "telephone": "88005557733"
+   },
+   "Kostrov": {
+      "age": "34",
+      "post": "fermer",
+      "telephone": "567589999"
+   },
+   "Fomin": {
+      "age": "35",
+      "post": "master",
+      "telephone": "8800200134566"
+   },
+   "Isaev": {
+      "age": "30",
+      "post": "office manager",
+      "telephone": "88005556655"
+   },
+   "Morozov": {
+      "age": "35",
+      "post": "coach",
+      "telephone": "4456445454"
+   },
+   "Mamaev": {
+      "age": "31",
+      "post": "driver",
+      "telephone": "125645747547"
+   },
+   "Maksimov": {
+      "age": "43",
+      "post": "courier",
+      "telephone": "5768883333"
+   },
+   "Perov": {
+      "age": "27",
+      "post": "security",
+      "telephone": "1235858326"
+   }
+}

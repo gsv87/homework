@@ -1,0 +1,18 @@
+Список всех сотрудников:
+Ivanov               25         manager                        88005552222
+Dmitriev             27         economist                      88005553333
+Sidorov              29         office manager                 88005554444
+Sokolov              23         manager                        88005551234
+Matveev              27         IT specialist                  88005554421
+Karpov               28         deputy dir                     88005552345
+Somov                34         director                       88005557866
+Petrov               36         logist                         211455523
+Makarov              34         IT specialist                  88005554422
+Popov                28         manager                        88005557733
+Kostrov              34         fermer                         567589999
+Fomin                35         master                         8800200134566
+Isaev                30         office manager                 88005556655
+Morozov              35         coach                          4456445454
+Mamaev               31         driver                         125645747547
+Maksimov             43         courier                        5768883333
+Perov                27         security                       1235858326
