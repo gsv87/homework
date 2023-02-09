@@ -76,3 +76,5 @@ for k in test_3:
 print()
 for k in foo1(test_3):
     print(k)
+    
+# Оставляю какой-то комментарий
