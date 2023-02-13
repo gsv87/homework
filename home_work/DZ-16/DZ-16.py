@@ -39,7 +39,7 @@ nums = [2587, 4467, 9633, 7510, 2587, 4567, 2587, 6376, 6128, 1828]
 a = len(nums)
 for i in range(a):
     nums.append(reverse_number(nums[i]))
-print(sum([1 for i in nums if nums.count(i) == 1]))
+print(len(set(nums)))
 
 
 # 8.
